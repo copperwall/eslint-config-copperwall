@@ -1,3 +1,3 @@
 export default {
-  extends: ['./index']
+  extends: ['./index', 'react-app'],
 }
